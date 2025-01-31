@@ -8,7 +8,7 @@
         {
           "name": "Una-Sana Canton",
           "key": "una-sana-canton",
-          "cities": [
+          "places": [
             "Bihać",
             "Bosanska Krupa",
             "Bosanski Petrovac",
@@ -22,7 +22,7 @@
         {
           "name": "Posavina Canton",
           "key": "posavina-canton",
-          "cities": [
+          "places": [
             "Orašje",
             "Odžak",
             "Domaljevac-Šamac"
@@ -31,7 +31,7 @@
         {
           "name": "Tuzla Canton",
           "key": "tuzla-canton",
-          "cities": [
+          "places": [
             "Banovići",
             "Čelić",
             "Doboj Istok",
@@ -50,7 +50,7 @@
         {
           "name": "Zenica-Doboj Canton",
           "key": "zenica-doboj-canton",
-          "cities": [
+          "places": [
             "Breza",
             "Doboj Jug",
             "Kakanj",
@@ -68,7 +68,7 @@
         {
           "name": "Bosnian-Podrinje Canton",
           "key": "bosnian-podrinje-canton",
-          "cities": [
+          "places": [
             "Goražde",
             "Ustikolina"
           ]
@@ -76,7 +76,7 @@
         {
           "name": "Central Bosnia Canton",
           "key": "central-bosnia-canton",
-          "cities": [
+          "places": [
             "Bugojno",
             "Busovača",
             "Dobretići",
@@ -94,7 +94,7 @@
         {
           "name": "Herzegovina-Neretva Canton",
           "key": "herzegovina-neretva-canton",
-          "cities": [
+          "places": [
             "Čapljina",
             "Čitluk",
             "Jablanica",
@@ -109,7 +109,7 @@
         {
           "name": "West Herzegovina Canton",
           "key": "west-herzegovina-canton",
-          "cities": [
+          "places": [
             "Široki Brijeg",
             "Ljubuški",
             "Grude",
@@ -119,7 +119,7 @@
         {
           "name": "Sarajevo Canton",
           "key": "sarajevo-canton",
-          "cities": [
+          "places": [
             "Sarajevo - Centar",
             "Sarajevo - Novi Grad",
             "Sarajevo - Novo Sarajevo",
@@ -134,7 +134,7 @@
         {
           "name": "Canton 10",
           "key": "canton-10",
-          "cities": [
+          "places": [
             "Bosansko Grahovo",
             "Drvar",
             "Livno",
@@ -146,20 +146,38 @@
       ]
     },
     {
-      "name": "Republic of Srspka",
-      "key": "republic-srspka",
+      "name": "Republic of Srpska",
+      "key": "republic-srpska",
       "type": "entity",
       "cantons": [
         {
           "name": "Banjalučka",
           "key": "banja-luka",
-          "cities": [
+          "places": [
+            "Banja Luka",
+            "Čelinac",
+            "Gradiška",
+            "Jezero",
+            "Kneževo",
+            "Kostajnica",
+            "Kotor Varoš",
+            "Kozarska Dubica",
+            "Krupa na Uni",
+            "Laktaši",
+            "Mrkonjić Grad",
+            "Novi Grad",
+            "Oštra Luka",
+            "Prijedor",
+            "Prnjavor",
+            "Ribnik",
+            "Šipovo",
+            "Srbac"
           ]
         },
         {
           "name": "Dobojsko-Bijeljinska",
           "key": "doboj-bijeljina",
-          "cities": [
+          "places": [
             "Bijeljina",
             "Brod",
             "Derventa",
@@ -179,7 +197,7 @@
         {
           "name": "Sarajevsko-Zvornička",
           "key": "sarajevo-zvornik",
-          "cities": [
+          "places": [
             "Bratunac",
             "Han Pijesak",
             "Istočna Ilidža",
@@ -202,7 +220,7 @@
         {
           "name": "Trebinjsko-Fočanska",
           "key": "trebinje-foca",
-          "cities": [
+          "places": [
             "Berkovići",
             "Bileća",
             "Čajniče",
@@ -219,10 +237,16 @@
     },
     {
       "name": "Brčko District",
-      "key": "Brcko-district",
+      "key": "brcko-district",
       "type": "self-governing",
-      "cities": [
-        "Brčko"
+      "cantons": [
+        {
+          "name": "Brčko",
+          "key": "brcko",
+          "places": [
+            "Brčko"
+          ]
+        }
       ]
     }
   ]

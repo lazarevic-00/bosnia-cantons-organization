@@ -19,17 +19,20 @@
   "entities": [
     {
       "name": "Federation of Bosnia and Herzegovina",
+      "key": "federation-of-bosnia-herzegovina",
       "type": "federation",
       "cantons": [
         {
           "name": "Una-Sana Canton",
+          "key": "una-sana-canton",
           "cities": ["Bihać", "Cazin", ...]
         },
         ...
       ]
     },
     {
-      "name": "Republika Srpska",
+      "name": "Republic of Srspka",
+      "key": "republic-srspka",
       "type": "entity",
       "municipalities": ["Banja Luka", "Bijeljina", ...]
     },

@@ -1,0 +1,229 @@
+{
+  "entities": [
+    {
+      "name": "Federation of Bosnia and Herzegovina",
+      "key": "federation-of-bosnia-herzegovina",
+      "type": "federation",
+      "cantons": [
+        {
+          "name": "Una-Sana Canton",
+          "key": "una-sana-canton",
+          "cities": [
+            "Bihać",
+            "Bosanska Krupa",
+            "Bosanski Petrovac",
+            "Bužim",
+            "Cazin",
+            "Ključ",
+            "Sanski most",
+            "Velika Kladuša"
+          ]
+        },
+        {
+          "name": "Posavina Canton",
+          "key": "posavina-canton",
+          "cities": [
+            "Orašje",
+            "Odžak",
+            "Domaljevac-Šamac"
+          ]
+        },
+        {
+          "name": "Tuzla Canton",
+          "key": "tuzla-canton",
+          "cities": [
+            "Banovići",
+            "Čelić",
+            "Doboj Istok",
+            "Gračanica",
+            "Gradačac",
+            "Kalesija",
+            "Kladanj",
+            "Lukavac",
+            "Sapna",
+            "Srebrenik",
+            "Teočak",
+            "Tuzla",
+            "Živinice"
+          ]
+        },
+        {
+          "name": "Zenica-Doboj Canton",
+          "key": "zenica-doboj-canton",
+          "cities": [
+            "Breza",
+            "Doboj Jug",
+            "Kakanj",
+            "Maglaj",
+            "Olovo",
+            "Tešanj",
+            "Usora",
+            "Vareš",
+            "Visoko",
+            "Zavidovići",
+            "Zenica",
+            "Žepče"
+          ]
+        },
+        {
+          "name": "Bosnian-Podrinje Canton",
+          "key": "bosnian-podrinje-canton",
+          "cities": [
+            "Goražde",
+            "Ustikolina"
+          ]
+        },
+        {
+          "name": "Central Bosnia Canton",
+          "key": "central-bosnia-canton",
+          "cities": [
+            "Bugojno",
+            "Busovača",
+            "Dobretići",
+            "Donji Vakuf",
+            "Fojnica",
+            "Gornji Vakuf-Uskopolje",
+            "Jajce",
+            "Kiseljak",
+            "Kreševo",
+            "Novi Travnik",
+            "Travnik",
+            "Vitez"
+          ]
+        },
+        {
+          "name": "Herzegovina-Neretva Canton",
+          "key": "herzegovina-neretva-canton",
+          "cities": [
+            "Čapljina",
+            "Čitluk",
+            "Jablanica",
+            "Konjic",
+            "Mostar",
+            "Neum",
+            "Prozor",
+            "Ravno",
+            "Stolac"
+          ]
+        },
+        {
+          "name": "West Herzegovina Canton",
+          "key": "west-herzegovina-canton",
+          "cities": [
+            "Široki Brijeg",
+            "Ljubuški",
+            "Grude",
+            "Posušje"
+          ]
+        },
+        {
+          "name": "Sarajevo Canton",
+          "key": "sarajevo-canton",
+          "cities": [
+            "Sarajevo - Centar",
+            "Sarajevo - Novi Grad",
+            "Sarajevo - Novo Sarajevo",
+            "Sarajevo - Stari grad",
+            "Trnovo",
+            "Ilijaš",
+            "Ilidža",
+            "Vogošća",
+            "Hadžići"
+          ]
+        },
+        {
+          "name": "Canton 10",
+          "key": "canton-10",
+          "cities": [
+            "Bosansko Grahovo",
+            "Drvar",
+            "Livno",
+            "Tomislavgrad",
+            "Kupres",
+            "Glamoč"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Republic of Srspka",
+      "key": "republic-srspka",
+      "type": "entity",
+      "cantons": [
+        {
+          "name": "Banjalučka",
+          "key": "banja-luka",
+          "cities": [
+          ]
+        },
+        {
+          "name": "Dobojsko-Bijeljinska",
+          "key": "doboj-bijeljina",
+          "cities": [
+            "Bijeljina",
+            "Brod",
+            "Derventa",
+            "Doboj",
+            "Donji Žabar",
+            "Lopare",
+            "Modriča",
+            "Pelagićevo",
+            "Petrovo",
+            "Šamac",
+            "Stanari",
+            "Teslić",
+            "Ugljevik",
+            "Vukosavlje"
+          ]
+        },
+        {
+          "name": "Sarajevsko-Zvornička",
+          "key": "sarajevo-zvornik",
+          "cities": [
+            "Bratunac",
+            "Han Pijesak",
+            "Istočna Ilidža",
+            "Istočni Stari Grad",
+            "Istočno Sarajevo",
+            "Milići",
+            "Novo Goražde",
+            "Osmaci",
+            "Pale",
+            "Rogatica",
+            "Rudo",
+            "Šekovići",
+            "Sokolac",
+            "Srebrenica",
+            "Višegrad",
+            "Vlasenica",
+            "Zvornik"
+          ]
+        },
+        {
+          "name": "Trebinjsko-Fočanska",
+          "key": "trebinje-foca",
+          "cities": [
+            "Berkovići",
+            "Bileća",
+            "Čajniče",
+            "Foča",
+            "Gacko",
+            "Istočni Mostar",
+            "Kalinovik",
+            "Ljubinje",
+            "Nevesinje",
+            "Trebinje"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brčko District",
+      "key": "Brcko-district",
+      "type": "self-governing",
+      "cities": [
+        "Brčko"
+      ]
+    }
+  ]
+}

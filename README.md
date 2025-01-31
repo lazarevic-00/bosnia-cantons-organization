@@ -1,5 +1,3 @@
-![Bosnia and Herzegovina Map](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/255px-Flag_of_Bosnia_and_Herzegovina.svg.png)  
-*Flag map of Bosnia and Herzegovina ([Source](https://commons.wikimedia.org/wiki/File:Flag-map_of_Bosnia_and_Herzegovina.svg))*
 
 ---
 
@@ -55,3 +53,26 @@
     },
   ]
 }
+```
+## Usage
+- First, install the package in your JavaScript project using npm:
+
+```
+npm i bosnia-cantons-organization
+```
+
+### Import the Package
+
+#### Using require (CommonJS):
+
+```
+const data = require('bosnia-cantons-organization');
+console.log(data); // This will log the entire JSON data
+```
+
+#### Using import (ES Modules):
+
+```
+import data from 'bosnia-cantons-organization';
+console.log(data); // This will log the entire JSON data
+```

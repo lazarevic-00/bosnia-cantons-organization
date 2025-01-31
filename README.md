@@ -25,7 +25,7 @@
         {
           "name": "Una-Sana Canton",
           "key": "una-sana-canton",
-          "cities": ["Bihać", "Cazin", ...]
+          "places": ["Bihać", "Cazin", ...]
         },
         ...
       ]
@@ -34,12 +34,24 @@
       "name": "Republic of Srspka",
       "key": "republic-srspka",
       "type": "entity",
-      "municipalities": ["Banja Luka", "Bijeljina", ...]
+      "cantons": [
+        {
+          "name": "Banjalučka",
+          "key": "banja-luka",
+          "places": ["Banja Luka", "Čelinac"...]
+        },
+        ...
     },
     {
       "name": "Brčko District",
+      "key": "brcko-district",
       "type": "self-governing",
-      "cities": ["Brčko"]
-    }
+      "cantons": [
+        {
+          "name": "Brčko",
+          "key": "brcko",
+          "places": ["Brčko"]
+        },
+    },
   ]
 }

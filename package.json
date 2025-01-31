@@ -1,0 +1,25 @@
+{
+  "name": "bosnia-cantons-organization",
+  "version": "1.0.0",
+  "description": "![Bosnia and Herzegovina Map](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/255px-Flag_of_Bosnia_and_Herzegovina.svg.png)   *Flag map of Bosnia and Herzegovina ([Source](https://commons.wikimedia.org/wiki/File:Flag-map_of_Bosnia_and_Herzegovina.svg))*",
+  "main": "index.js",
+  "files": [
+    "data.json",
+    "readme.md",
+    "index.js"
+  ],
+  "keywords": ["bosnia", "bosnia and herzegovina", "cantons", "entity"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazarevic-00/bosnia-cantons-organization.git"
+  },
+  "author": "lazarevic-00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazarevic-00/bosnia-cantons-organization/issues"
+  },
+  "homepage": "https://github.com/lazarevic-00/bosnia-cantons-organization#readme"
+}
